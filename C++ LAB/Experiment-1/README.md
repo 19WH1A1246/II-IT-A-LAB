@@ -9,6 +9,6 @@ To display names and grades of three students
 3
 4
 
-##CAR
+## CAR
 
 ![CAR](hello.png)
