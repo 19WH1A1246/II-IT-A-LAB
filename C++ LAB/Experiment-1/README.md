@@ -10,4 +10,4 @@ To display names and grades of three students
 4
 
 
-![CAR](Screenshot(203).png)
+![CAR](Screenshot (203).png)
